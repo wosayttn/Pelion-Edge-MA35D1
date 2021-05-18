@@ -47,7 +47,7 @@ nvt-ma35d1-directfb.conf)
 | **core-image-minimal**  | A small image that only allows a device to boot | Poky |
 | **nvt-image-qt5** | Builds ma35d1 image with qt5 | meta-ma35d1 |
 
-## Get Nuvoton MA35D1 manifest And minimal bulding
+## Get Nuvoton MA35D1 manifest and do minimal building
 ```bash
 nuvoton@a24d9e06abe3:~/share/yocto$ git config --global user.email "test@test.test.test"
 nuvoton@a24d9e06abe3:~/share/yocto$ git config --global user.name "test"
