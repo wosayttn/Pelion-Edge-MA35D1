@@ -75,4 +75,4 @@ socket name is: /tmp/edge.sock
 
 ## Demo
 
-    ![Demo](figures/PelionEdge_MA35D1.gif)
+[![Demo](https://i.imgur.com/WkkSpK4.gif "Demo")](https://i.imgur.com/WkkSpK4.gif "Demo")
