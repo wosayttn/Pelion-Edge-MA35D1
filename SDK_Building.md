@@ -76,3 +76,10 @@ socket name is: /tmp/edge.sock
 ## Demo
 
 <img src="/figures/PelionEdge_MA35D1.gif?raw=true">
+
+
+### Offline Log Test
+
+<img src="/figures/PelionEdge_MA35D1_offline_logging.gif?raw=true">
+
+<img src="/figures/PelionEdge_MA35D1_offline_logging2.gif?raw=true">
